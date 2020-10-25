@@ -1,8 +1,9 @@
 # Referrence
 
 
-Gantt Chart Referrence	
-License
+**Gantt Chart Referrence**	
+
+**License**
 The jQuery.ganttView plugin may be used free of charge under the conditions of the following license:
 The MIT License
 Copyright (c) 2010 JC Grubbs - jc.grubbs@devmynd.com
@@ -11,7 +12,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 production.ets-hosted.cybersource.com/ets-hop/payment
 
-Images Referrence	
+**Images Referrence**	
 https://www.pexels.com/zh-tw/photo/4397840/
 攝影師：Karolina Grabowska，連結：Pexels
 
